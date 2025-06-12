@@ -26,9 +26,9 @@
                         data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Unidad 1</a>
 
                         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                            <a class="dropdown-item" href="https://jesusdanielvargaslorenzo.github.io/grupo4A/carpeta/jesus01.php">UNO</a><br>
-                            <a class="dropdown-item" href="https://jesusdanielvargaslorenzo.github.io/grupo4A/carpeta/jesus02.php">De2</a><br>
-                            <a class="dropdown-item" href="https://jesusdanielvargaslorenzo.github.io/grupo4A/carpeta/jesus03.php">3 Tristes Tigres</a><br>
+                            <a class="dropdown-item" href="https://jesusdanielvargaslorenzo.github.io/grupo4A/carpeta/carpeta/jesus01.php">UNO</a><br>
+                            <a class="dropdown-item" href="https://jesusdanielvargaslorenzo.github.io/grupo4A/carpeta/carpeta/jesus02.php">De2</a><br>
+                            <a class="dropdown-item" href="https://jesusdanielvargaslorenzo.github.io/grupo4A/carpeta/carpeta/jesus03.php">3 Tristes Tigres</a><br>
                         </div>
                     </li>
 
@@ -37,11 +37,11 @@
                         data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Unidad 2</a>
 
                         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                            <a class="dropdown-item" href="https://jesusdanielvargaslorenzo.github.io/grupo4A/carpeta/jesus04.php">4 Perros</a><br>
-                            <a class="dropdown-item" href="https://jesusdanielvargaslorenzo.github.io/grupo4A/carpeta/jesus05.php">SinKo</a><br>
-                            <a class="dropdown-item" href="https://jesusdanielvargaslorenzo.github.io/grupo4A/carpeta/daniel05.php">paginal actual</a><br>
-                            <a class="dropdown-item" href="https://jesusdanielvargaslorenzo.github.io/grupo4A/carpeta/daniel.php">pepito</a><br>
-                            <a class="dropdown-item" href="https://jesusdanielvargaslorenzo.github.io/grupo4A/carpeta/jesus06.html">pokemon</a><br>
+                            <a class="dropdown-item" href="https://jesusdanielvargaslorenzo.github.io/grupo4A/carpeta/carpeta/jesus04.php">4 Perros</a><br>
+                            <a class="dropdown-item" href="https://jesusdanielvargaslorenzo.github.io/grupo4A/carpeta/carpeta/jesus05.php">SinKo</a><br>
+                            <a class="dropdown-item" href="https://jesusdanielvargaslorenzo.github.io/grupo4A/carpeta/carpeta/daniel05.php">paginal actual</a><br>
+                            <a class="dropdown-item" href="https://jesusdanielvargaslorenzo.github.io/grupo4A/carpeta/carpeta/daniel.php">pepito</a><br>
+                            <a class="dropdown-item" href="https://jesusdanielvargaslorenzo.github.io/grupo4A/carpeta/carpeta/jesus06.html">pokemon</a><br>
                         </div>
                     </li>
 
